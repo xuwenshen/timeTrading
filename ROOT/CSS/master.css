@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* 界面元素初始化 */
+html, body, div, span, ul, ol, li, dl, dt, dd, strong, p, a, img, form, label, input, textarea, button { margin: 0px; padding: 0px; }
+body { background-color: #fbfafa; font: 12px Tahoma, Geneva, sans-serif; color: #333333; }
+ul, ol, li, dl, dt, dd, strong, p, a, img, form, label, input, button { overflow: hidden; }
+ul, ol, dl, dt, dd { list-style: none; }
+img { border: none; }
+a { color: #333333; text-decoration: none; }

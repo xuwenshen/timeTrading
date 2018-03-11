@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* 应用顶部工具条 */
+.appToolsBar { background-color: #f5f5f5; display: inline; float: left; height: auto; width: 100%; }
+.appToolsBarBody { color: #6c6c6c; height: 32px; line-height: 32px; margin: 0px auto; padding: 0px 20px; width: 960px; }
+.appToolsBarBody div span { display: inline; float: left; height: 32px; }
+.appToolsBarBody div a { color: #6c6c6c; display: inline; float: left; }
+.floatLeft { display: inline; float: left; }
+.floatRight { display: inline; float: right; }
+.bar{ height: 100px; width: 100%; }
+
+/* 应用内容区 */
+.appFramework { background-color: White; display: inline; float: left; height: auto; width: 100%; }
+.appFramework div.appBody { height: auto; margin: 0px auto; width: 1000px; }
+
+
+
